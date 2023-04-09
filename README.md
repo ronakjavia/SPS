@@ -1,5 +1,5 @@
 # Stone Paper Scissors
-### (URL)[https://starlit-starlight-07e47b.netlify.app]
+### [URL](https://starlit-starlight-07e47b.netlify.app)
 
 # Getting Started with Create React App
 
